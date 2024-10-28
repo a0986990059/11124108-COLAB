@@ -40,11 +40,11 @@
 
 加载數據集，設置每十張圖片為一批，並隨機打亂
 
-![image](https://github.com/a0986990059/11124108-COLAB/blob/main/P08.jpg0)
+![image](https://github.com/a0986990059/11124108-COLAB/blob/main/P08.jpg)
 
 網絡實例化
 
-![image](https://github.com/a0986990059/11124108-COLAB/blob/main/P09.jpg0)
+![image](https://github.com/a0986990059/11124108-COLAB/blob/main/P09.jpg)
 
 優化器、學習率、輪次設置
 
