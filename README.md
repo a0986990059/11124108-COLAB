@@ -40,7 +40,7 @@
 
 加载數據集，設置每十張圖片為一批，並隨機打亂
 
-![image](https://github.com/a0986990059/11124108-COLAB/blob/main/P08.jpg00)
+![image](https://github.com/a0986990059/11124108-COLAB/blob/main/P08.jpg0)
 
 網絡實例化
 
